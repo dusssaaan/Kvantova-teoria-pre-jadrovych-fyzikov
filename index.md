@@ -11,7 +11,8 @@
 ### Zoznam úloh (List of Homeworks)
 
 ```markdown
-1. týždeň (week): Cvičenie (Excercise) 1 Pr 1., 2. a), b)
+2. týždeň (week): Cvičenie (Excercise) 1 Pr 1., 2. a), b)
+3. týždeň (week): Cvičenie (Excercise) 2 Pr 2. R=u/r leads to u'' Pr 3. express delta_0
 
 ```
 
