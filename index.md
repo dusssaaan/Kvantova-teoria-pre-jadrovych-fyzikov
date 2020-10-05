@@ -1,6 +1,6 @@
 # Prehľad (Overview)
-1. *týžďen (week)* [Teória rozptylu (Scattering theory)](prvy_tyzden.html)
-2. *týžďen (week)* [Teória rozptylu pomocou rozkladu do parciálnych vĺn (Scattering theory by Partial Wave Analysis)](druhy_tyzden.html)
+1. *týždeň (week)* [Teória rozptylu (Scattering theory)](prvy_tyzden.html)
+2. *týždeň (week)* [Teória rozptylu pomocou rozkladu do parciálnych vĺn (Scattering theory by Partial Wave Analysis)](druhy_tyzden.html)
 
 ## Cvičenia (Excercises) pdf
 [Cvičenie (Excercise) 1](zadania/Rozptyl2016.pdf )
@@ -23,3 +23,5 @@ Dušan Štefánik,
 Katedra jadrovej fyziky a biofyziky, FMFI, UK
 
 Miestnosť: F1 268
+
+
