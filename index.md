@@ -1,22 +1,23 @@
-## Kvantová teória pre jadrových fyzikov
+# Prehľad (Overview)
+1. *týžďen (week)* [Teória rozptylu (Scattering theory)](prvy_tyzden.html)
+2. *týžďen (week)* [Teória rozptylu pomocou rozkladu do parciálnych vĺn ((Scattering theory by Partial Wave Analysis))](druhy_tyzden.html)
 
+## Cvičenia (Excercises) pdf
+[Cvičenie (Excercise) 1](zadania/Rozptyl2016.pdf )
+[Cvičenie (Excercise) 2](zadania/fazy2016.pdf ) 
 
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Zoznam úloh (List of Homeworks)
 
 ```markdown
-1. týždeň (week) Cvičenie 1 (Excercise 1) Pr 1., 2. a), b)
+1. týždeň (week) Cvičenie (Excercise) 1 Pr 1., 2. a), b)
 
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### Kontakt
 
-### Jekyll Themes
+Dušan Štefánik,
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/dusssaaan/Kvantova-teoria-pre-jadrovych-fyzikov/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Katedra jadrovej fyziky a biofyziky, FMFI, UK
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Miestnosť: F1 268
