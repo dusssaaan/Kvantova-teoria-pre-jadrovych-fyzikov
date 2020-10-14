@@ -7,12 +7,13 @@
 
 [Cvičenie (Excercise) 2](zadania/fazy2016.pdf ) 
 
+[Cvičenie (Excercise) 3](zadania/zadania/castica%20v%20elmag%20poli%2BBohm%20Aharonov%20efekt.pdf ) 
 
 ### Zoznam úloh (List of Homeworks)
 
 ```markdown
-2. týždeň (week): Cvičenie (Excercise) 1 Pr 1., 2. a), b)
-3. týždeň (week): Cvičenie (Excercise) 2 Pr 2. R=u/r leads to u'' Pr 3. express delta_0
+1. Úloha: Cvičenie (Excercise) 1 Pr 1., 2. a), b)
+2. Úloha: Cvičenie (Excercise) 2 Pr 2. R=u/r leads to u'' Pr 3. express delta_0
 
 ```
 
