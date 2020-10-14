@@ -7,7 +7,7 @@
 
 [Cvičenie (Excercise) 2](zadania/fazy2016.pdf ) 
 
-[Cvičenie (Excercise) 3](zadania/zadania/castica%20v%20elmag%20poli%2BBohm%20Aharonov%20efekt.pdf ) 
+[Cvičenie (Excercise) 3](zadania/castica%20v%20elmag%20poli%2BBohm%20Aharonov%20efekt.pdf ) 
 
 ### Zoznam úloh (List of Homeworks)
 
