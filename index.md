@@ -9,6 +9,8 @@
 
 [Cvičenie (Excercise) 3](zadania/castica%20v%20elmag%20poli%2BBohm%20Aharonov%20efekt.pdf ) 
 
+[Cvičenie (Excercise) 4](zadania/castica v elmag poli%2BBohm Aharonov efekt.pdf)
+
 ### Zoznam úloh (List of Homeworks)
 
 ```markdown
@@ -16,6 +18,7 @@
 2. Úloha: Cvičenie 2, Pr. 2. R=u/r leads to u'' Pr 3. express delta_0
 3. Úloha: Cvičenie 3, Pr. 3. Ukázať, že Schr. rovnica v elmag. poli je lokálne kalibračne invariantná
 4. Úloha: Cvičenie 3, Pr. 4. a Pr. 8.
+5. Úloha: Cvičenie 4, Pr. 1.
 
 ```
 
