@@ -9,7 +9,7 @@
 
 [Cvičenie (Excercise) 3](zadania/castica%20v%20elmag%20poli%2BBohm%20Aharonov%20efekt.pdf ) 
 
-[Cvičenie (Excercise) 4](zadania/castica v elmag poli%2BBohm Aharonov efekt.pdf)
+[Cvičenie (Excercise) 4](zadania/nestacionarna poruchova metoda.pdf)
 
 ### Zoznam úloh (List of Homeworks)
 
