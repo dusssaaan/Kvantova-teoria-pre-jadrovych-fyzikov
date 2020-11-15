@@ -21,7 +21,7 @@
 3. Úloha: Cvičenie 3, Pr. 3. Ukázať, že Schr. rovnica v elmag. poli je lokálne kalibračne invariantná
 4. Úloha: Cvičenie 3, Pr. 4. a Pr. 8.
 5. Úloha: Cvičenie 4, Pr. 1.
-6. Úloha: Cvičenie č, Pr. 7.
+6. Úloha: Cvičenie 4, Pr. 7.
 
 ```
 
