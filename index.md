@@ -22,6 +22,7 @@
 4. Úloha: Cvičenie 3, Pr. 4. a Pr. 8.
 5. Úloha: Cvičenie 4, Pr. 1.
 6. Úloha: Cvičenie 4, Pr. 7.
+7. Úloha: Cvičenie 5, Pr. 4. a 5.
 
 ```
 
