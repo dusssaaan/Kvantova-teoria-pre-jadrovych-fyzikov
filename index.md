@@ -12,7 +12,9 @@
 [Cvičenie (Excercise) 4](zadania/nestacionarna poruchova metoda.pdf)
 
 [Cvičenie (Excercise) 5](zadania/variačná metóda.pdf)
-
+  
+[Cvičenie (Excercise) 6](zadania/Clebsh-Gordan.pdf)  
+  
 ### Zoznam úloh (List of Homeworks)
 
 ```markdown
